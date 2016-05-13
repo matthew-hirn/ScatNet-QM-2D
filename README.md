@@ -18,7 +18,7 @@ Most users will only need to work with a few files in the scat_qm folder.
 
 Two data sets are included in the package. They are located in **scat_qm → data → data_sets**. The two data sets are:
 - **qm7_2d.mat**: These are the 454 planar molecules from the QM7 data set (http://quantum-machine.org/datasets/).
-- **qm_2d**: This is a new data base, consisting of 4357 planar organic molecules. More information on its contents and how it was generated can be found in the qm_2d_README.rst file located in the same folder.
+- **qm_2d.mat**: This is a new data base, consisting of 4357 planar organic molecules. More information on its contents and how it was generated can be found in the qm_2d_README.rst file located in the same folder.
 
 ## Main Scripts
 
