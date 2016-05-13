@@ -33,3 +33,7 @@ Scripts for generating figures from "Wavelet scattering regression of quantum ch
 - Figure 3 can be generated using **qm_scat_display_first_layer.m**.
 - Figure 4 from can be generated using **qm_plot_rmse_dictionaries.m** and the outputs from qm_regression_xxx_ols_only.m.
 - Figures 5, 6, and 7 can be generated using first **qm_compute_scat_avg_weights.m** and then **qm_display_scat_avg_weights.m**.
+
+## Additional Documentation
+
+Additional documentation for the ScatNet-QM-2D package can be found in the **ScatNet-QM-2D_manual.pdf** file.
