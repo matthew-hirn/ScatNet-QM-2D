@@ -6,6 +6,8 @@ This software computes two-dimensional wavelet scattering transforms of planar m
 ## Installation
 The folder ScatNet-QM-2D can be saved to any location. In Matlab, add to the path the top level folder ScatNet-QM-2D and include all subfolders.
 
+The **releases** of the package contain an additional **results** folder with precomputed dictionary coefficients and regression results. See the release tab for more details.
+
 ## Overview
 
 Within the top level folder are two main folders:
